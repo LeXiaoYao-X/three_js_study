@@ -1,0 +1,13 @@
+{
+  "name": "09-debug-ui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "lil-gui": "^0.21.0"
+  }
+}
