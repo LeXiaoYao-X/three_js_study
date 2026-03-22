@@ -1,0 +1,10 @@
+{
+  "name": "23-custom-models-with-blender",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
